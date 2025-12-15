@@ -87,18 +87,8 @@ Data Visualization Techniques
 
 
 ---
-
-💡 Learning Outcomes
-
-Hands-on experience with Power BI dashboards
-
-Understanding of data cleaning and data types
-
-Proper use of aggregation (SUM vs COUNT)
-
-Creating business-focused insights
-
-Designing professional, CV-ready dashboards
+![Dashboard Preview]
+(Finance Dashboard.png)
 
 
 
