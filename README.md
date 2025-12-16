@@ -84,13 +84,9 @@ DAX (Basic Aggregations)
 
 Data Visualization Techniques
 
-![Dashboard]<img src="https://github.com/Ashwini07-cmd/Finance Dashboard.png" alt="Image Description" Width="600">
-
-
-
----
-![Dashboard Preview]
-(Finance Dashboard.png)
-
+![Dashboard]
+<br>
+<img src="https://github.com/Ashwini07-cmd/Finance-Performance-Analysis-PowerBI/blob/2642135e366bb79899fd84b6ded788d41aa5df0f/Finance%20Dashboard.png" alt="Image Description" Width="600">
+<br>
 
 
