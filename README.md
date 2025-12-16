@@ -88,5 +88,20 @@ Data Visualization Techniques
 <br>
 <img src="https://github.com/Ashwini07-cmd/Finance-Performance-Analysis-PowerBI/blob/2642135e366bb79899fd84b6ded788d41aa5df0f/Finance%20Dashboard.png" alt="Image Description" Width="600">
 <br>
+Most Preferred Investment Option
+<br>
+<img src="https://github.com/Ashwini07-cmd/Finance-Performance-Analysis-PowerBI/blob/4b552e3dc7e070ae4dfd589b13b73b7ce92a8ece/Most%20Preferred%20Investment%20Opt.png" alt="Image Description" width="600">
+<br>
+Investor Age Distribution
+<br>
+<img src="https://github.com/Ashwini07-cmd/Finance-Performance-Analysis-PowerBI/blob/4b552e3dc7e070ae4dfd589b13b73b7ce92a8ece/investor%20Age%20distribution.png" alt="Image Description" width="600">
+<br>
+Gender Wise Investment Preference
+<br>
+<img src="https://github.com/Ashwini07-cmd/Finance-Performance-Analysis-PowerBI/blob/4b552e3dc7e070ae4dfd589b13b73b7ce92a8ece/Gender%20Wise%20investment.png" alt="Image Description" width="600">
+<br>
+
+
+
 
 
